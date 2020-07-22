@@ -2,7 +2,7 @@
 
 ## I'm a web developer and freelancer
 * I'm currently working on the nation-simulation web game Affairs & Order.
-* I know these technologies : Python, Flask, SQL, HTML/CSS.
+* I know these technologies/languages : Python, Flask, SQL, HTML, Javascript
 * My interests are: web development, reverse engineering, automation, web scraping, Linux
 * You can reach me by: sending an email to deliveydev@gmail.com, or sending a DM on [Twitter](https://twitter.com/delivey2)
 * I do freelancing, so reach out to me if you need something made with the technologies I know, or find services I already offer on my [Fiverr](https://www.fiverr.com/delivey) page.
