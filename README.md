@@ -1,6 +1,6 @@
 ### Hi, I'm delivey
 
-## I'm a web developer and freelancer
+## A web developer and freelancer
 * I'm currently working on a nation-simulation web game: [Affairs & Order](https://www.reddit.com/r/AffairsAndOrder).
 * I know these technologies/languages: Python, Flask, SQL, HTML, Javascript.
 * My interests are: web development, reverse engineering, automation, web scraping, Linux
