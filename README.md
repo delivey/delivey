@@ -1,6 +1,6 @@
 ### Hi, I'm delivey
 
-* I work with these technologies: Python (Flask), Node.js (Express.js), C++, SQL.
+* Python (Flask), Node.js (Express.js), C++, SQL, MongoDB.
 * You can reach me by: sending an email to deliveydev@gmail.com.
 <!--
 **delivey/delivey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
