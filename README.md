@@ -1,6 +1,6 @@
 ### Hi, I'm delivey
 
-* I'm currently working on a nation simulation game - https://affairsandorder.com/
+* API developer, blockchain enthusiast.
 * Python (Flask), Node.js (Express.js), C++, SQL, MongoDB.
 * You can reach me by sending an email to deliveydev@gmail.com.
 <!--
