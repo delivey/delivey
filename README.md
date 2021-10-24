@@ -1,6 +1,6 @@
 ### Hi, I'm delivey
 
-* API developer, blockchain enthusiast.
+* API developer, indie hacker.
 * Python (Flask), Node.js (Express.js), C++, SQL, MongoDB.
 * You can reach me by sending an email to deliveydev@gmail.com.
 <!--
