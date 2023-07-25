@@ -1,7 +1,7 @@
 ### Hi, I'm delivey
 
-* API developer, indie hacker.
-* Python (Flask), Node.js (Express.js), C++, SQL, MongoDB.
+* Full-stack developer, freelancer & indie hacker.
+* Python, TypeScript, Go, SQL, MongoDB, React
 * You can reach me by sending an email to deliveydev@gmail.com.
 <!--
 **delivey/delivey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
