@@ -1,4 +1,4 @@
-### Hi, I'm delivey
+# Hi, I'm delivey
 
 * Full-stack developer, freelancer & indie hacker.
 * Python, TypeScript, Go, SQL, MongoDB, React
